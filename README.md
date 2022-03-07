@@ -4,7 +4,7 @@ From Rio de Janeiro, Brazil 🏖️
 
 - 🧪 I'm a Chemistry Technician who also loves Coding
 - 💻 I’m currently learning Javascript to integrate with my knowledge in HTML5 and CSS
-- 🤖 I have intermediary knowledge in python with an emphasis on machine learning and Data Science
+- 🤖 I have intermediary knowledge in python with an emphasis on Machine Learning and Data Science
 - 📧 Contact e-mail: guilherme.silva.leite00@gmail.com
 - 📜 My LinkedIn profile: https://www.linkedin.com/in/guilherme-da-silva-leite/
 - 😄 Pronouns: He/Him
